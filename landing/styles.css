@@ -24,5 +24,25 @@
 .section-a .fa {
   font-size: 40px;
   margin-bottom: .5rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
+}
+
+.section-a h5 {
+  margin-bottom: .3rem;
+}
+
+.section-b {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.section-c {
+  background-image: url('images/pattern.jpg');
+  background-size: cover;
+  margin-top: 4rem;
+  padding-bottom: 5rem;
+}
+
+.section-c .section-description {
+  margin-bottom: 4rem;
 }
